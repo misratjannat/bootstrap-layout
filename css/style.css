@@ -1,0 +1,20 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.header, .hero, .body, .bar, .footer{
+	 background-color: #ddd;
+	 margin-bottom: 10px;
+	 padding: 10px 0;
+}
+.box{
+	height: 100px;
+	background-color: red;
+	font-size: 30px;
+	color: white;
+	margin-bottom: 5px;
+}
+.green{
+	background-color: green;
+}
